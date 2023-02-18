@@ -4,8 +4,7 @@
 GRS191 - GWS191
 
 ## Liens d'interet
-toyodiy
-https://www.clublexus.com/forums/hybrid-technology-215-3.html
+toyodiy: https://www.clublexus.com/forums/hybrid-technology-215-3.html
 
 ## Hybride
 Apres remplacement inverter -> initialize func short pin 4 and 13 on the obd connector for 30min
@@ -13,34 +12,27 @@ Apres remplacement inverter -> initialize func short pin 4 and 13 on the obd con
 ## Lubrification
 
 ### Huile moteur
-
 - 6L: 5w30 -  ACEA A1/C1, A5/C5, API SN, ILSAC GF-4 'stop and start'
 
 ### Filtre à huile:
-
 - Purflux L ???
 - Misfat L077 (chez cartercash) -> 6€
 
 ### Huile de boîte CVT:
-
 - Toyota ATF WS transmission fluid -> 15e/L @racinglubes
 	
 
 ### Huile de pont: API GL-5, JWS 2272
-
 - 2L: 75w85 Toyota LT -> 30e/L @racinglubes
 - 2 joints 18x24x20mm voir 18x24x15mm
 
 ### Refroidissement
-
 Liquide de refroidissement Toyota super LLC (SLLC)
 - 5L: ref 08889-80072: 45e @racinglube
 - 1L: ref 08889-80150
 -> @racinglube
 
-
 ### Allumage
-
 Bougies:
 - NGK 
 	
