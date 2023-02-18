@@ -40,7 +40,7 @@ Bougies:
 
 #### Lambda:
 - pre catalyseur (upstream):
-- post catalyseur (downstream): 
+- post catalyseur (downstream): DENSO DOX-0109 (kit a adapter sur connecteur d'origine)
 
 
 ### Freinage
