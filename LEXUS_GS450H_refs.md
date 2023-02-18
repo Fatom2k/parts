@@ -3,15 +3,12 @@
 ## Lexus GS 450H 2009
 GRS191 - GWS191
 
-## Liens d interet
+## Liens d'interet
 toyodiy
 https://www.clublexus.com/forums/hybrid-technology-215-3.html
 
-
 ## Hybride
-
 Apres remplacement inverter -> initialize func short pin 4 and 13 on the obd connector for 30min
-
 
 ## Lubrification
 
